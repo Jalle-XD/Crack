@@ -1839,7 +1839,7 @@ def mengecek(user,pw):
 		print("%s ╰─  \033[0mLogin Gagal, Silahkan Cek Kembali Id Dan Kata Sandi"%(M))
 		  
 def scarpping_ua():
-     Url & Headers website #
+     #Url & Headers website #
     
     
     url = "https://api.apilayer.com/user_agent/generate?android=true&chrome=true"
